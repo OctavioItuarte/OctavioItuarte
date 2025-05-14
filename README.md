@@ -1,4 +1,5 @@
-## Hi there 👋. I'm Octavio, currently studying Systems Engineering in Argentina at UNICEN.
+## Hi there 👋
+I'm Octavio, currently studying Systems Engineering in Argentina at UNICEN.
 
 <!--
 **OctavioItuarte/OctavioItuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
