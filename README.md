@@ -1,11 +1,39 @@
 ## Hi there 👋
-I am an advanced student of Systems Engineering at UNICEN, about to complete my degree. I have experience in several programming languages such as C++, Java, JavaScript, Python, PL/SQL (Postgres), HTML, and CSS.
+# About me
 
-I have worked on practical projects using Express for the backend and Angular for the frontend of an e-commerce application, where I implemented components, services, and directives. In addition, I have basic knowledge of Spring, and I am currently working on my final degree project using React and Node.js to build a fullstack application, in which I implemented a database migration system and its corresponding documentation.
+I am an **advanced Systems Engineering student at UNICEN**, about to complete my degree.
 
-I am proficient with Linux commands for installing and managing programs, and I am currently learning Django to broaden my knowledge of frameworks, with the goal of soon incorporating Laravel and PHP into my stack.
+---
 
-I am interested in continuing to learn and participating in collaborative projects, especially those related to web development and modern technologies.
+### Technologies & Experience
+
+- **Programming languages:**  
+  C++, Java, JavaScript, Python, PL/SQL (Postgres), HTML, CSS.
+
+- **Practical projects:**  
+  - I have worked on e-commerce applications using **Express** (backend) and **Angular** (frontend), where I implemented components, services, and directives.
+  - I have basic knowledge of **Spring**.
+  - I am currently developing my **final degree project** using **React** and **Node.js** to build a fullstack application. In this project, I implemented a database migration system along with its documentation.
+
+- **Operating systems:**  
+  Proficient with Linux commands for installing and managing programs.
+
+---
+
+### Continuous Learning
+
+- **In progress:**  
+  Learning **Django** to broaden my framework knowledge.
+- **Next steps:**  
+  Planning to add **Laravel** and **PHP** to my tech stack soon.
+
+---
+
+### Interests
+
+I am eager to keep learning and to participate in **collaborative projects**, especially those related to **web development**, **modern technologies**, and **frameworks**.
+
+---
 
 Thank you for visiting my profile!
 
