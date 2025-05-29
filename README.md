@@ -1,5 +1,13 @@
 ## Hi there 👋
-I'm Octavio, currently studying Systems Engineering in Argentina at UNICEN.
+I am an advanced student of Systems Engineering at UNICEN, about to complete my degree. I have experience in several programming languages such as C++, Java, JavaScript, Python, PL/SQL (Postgres), HTML, and CSS.
+
+I have worked on practical projects using Express for the backend and Angular for the frontend of an e-commerce application, where I implemented components, services, and directives. In addition, I have basic knowledge of Spring, and I am currently working on my final degree project using React and Node.js to build a fullstack application, in which I implemented a database migration system and its corresponding documentation.
+
+I am proficient with Linux commands for installing and managing programs, and I am currently learning Django to broaden my knowledge of frameworks, with the goal of soon incorporating Laravel and PHP into my stack.
+
+I am interested in continuing to learn and participating in collaborative projects, especially those related to web development and modern technologies.
+
+Thank you for visiting my profile!
 
 <!--
 **OctavioItuarte/OctavioItuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
