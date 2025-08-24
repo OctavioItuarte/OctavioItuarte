@@ -1,11 +1,11 @@
 # Hello! 👋
 ## About me
 
-My name is Octavio, a Systems Engineering student at UNICEN Argentina.
+My name is Octavio, an advanced Systems Engineering student at UNICEN Argentina.
 
-I am currently working on my final degree project, contributing to and maintaining a web platform for the healthcare system using React and Node.js.
+I am looking for a full-time job as a Software developer.
 
-In my free time, I dedicate myself to contributing to projects in the GitHub community while continuously learning and improving my skills.
+I dedicate myself to contributing to projects in the GitHub community while continuously learning and improving my skills.
 
 ---
 
