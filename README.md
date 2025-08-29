@@ -12,12 +12,10 @@ I dedicate myself to contributing to projects in the GitHub community while cont
 - **Technologies:**  
   C++, Java, JavaScript, NodeJS, Python, PL/SQL (Postgres), HTML, CSS.
 
-- **Projects:**  
+- **Key Projects:**  
   - E-commerce applications using Express and Angular
   - Graph and geometrical algorithms in C++
   - Educational compiler design project
-  - Full-stack applications using Django and React + TailwindCSS
-  - Neural network implementations using Python libraries
   - Team collaboration on a web application for call center management
 ---
 
